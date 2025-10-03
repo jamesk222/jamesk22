@@ -14,8 +14,8 @@ I specialize in turning raw data into **actionable insights and production-ready
 Python | SQL | Power BI | Tableau | Scikit-learn | TensorFlow | Azure | Docker | MLflow | Data Engineering | ETL Automation  
 
  **Explore my work:**  
-- [Data Analytics Portfolio](link-to-your-analytics-repo)  
-- [Data Science Portfolio](link-to-your-ds-repo)  
+- [Data Analytics Portfolio]([link-to-your-analytics-repo](https://github.com/jamesk222/Data-Analytics-Projects)  
+- [Data Science Portfolio](https://github.com/jamesk222/Data-Science-Projects)  
 
 📬 **Let’s Connect:**  
 [LinkedIn](https://www.linkedin.com/in/jamal-shah24/) | jamalshah199110@gmail.com
